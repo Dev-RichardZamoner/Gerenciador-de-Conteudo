@@ -1,4 +1,4 @@
-# Gerenciador-de-Conteudo
+# Gerenciador-de-Conteudo ( Apenas tela de login ) 
 
 Olá você que esta em busca de códigos onde possa estar fazendo o melhor uso
 Aqui lhe disponibilizo uma página de Login onde pode ser também a Página principal do seu projeto
