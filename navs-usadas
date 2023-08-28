@@ -1,0 +1,23 @@
+    <nav class="black">
+        <div class="nav-wrapper container">
+            <a href="https://www.habblet.city/"><i class="material-icons left"></i>Habblet Hotel</a>
+            <ul class="sidenav" id="mobile-demo">
+                <div class="container">
+                    <div class="row">
+                        <div class="section"></div>
+                        <div class="col s12 m12">
+                            <div class="card login">
+                                <div class="card-content white">
+                                    <span class="card-title">
+                                        <div class="row valign-wrapper">
+                                            <div class="col">
+                                                <i class="material-icons md-48">vpn_key</i>
+                                                <div class="col">
+                                                    <div class="section"></div>
+                                                    <form class="text-white center-align">
+                                                        <div class="input-field">
+                                                            <input type="text" id="utilizador" />
+                                                            <label for="utilizador">Utilizador</label>
+                                                            <input type="password" id="password" />
+                                                            <div class="right-align">
+                                                                <button type="submit" class="btn black" id="login">Entrar</button>
